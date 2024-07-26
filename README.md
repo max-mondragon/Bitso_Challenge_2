@@ -3,6 +3,7 @@
 Hello!
 Here is the documentation for my Bitso Challenge 2.
 This challenge consists on the design for an Analytical data model, capable of answering questions provided.
+
 Created by: **Max Mondragon**.
 
 
